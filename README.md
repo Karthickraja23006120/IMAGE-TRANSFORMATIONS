@@ -39,8 +39,8 @@ Use cv2.imshow to show the image
 
 ## Program:
 ```
-Developed By:POPURI SRAVANI
-Register Number:212223240117
+Developed By:Karthick Raja K
+Register Number:212223240066
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
